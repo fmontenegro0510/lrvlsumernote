@@ -11,7 +11,7 @@ Este repositorio contiene un proyecto de Laravel 10 que implementa un CRUD (crea
 ## Instalación
 
 1. Clona el repositorio:
-git clone https://github.com/tu-usuario/laravel10-summernote-crud.git
+git clone https://github.com/fmontenegro0510/lrvlsumernote.git
 
 
 2. Instala las dependencias con Composer:
